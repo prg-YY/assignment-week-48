@@ -1,0 +1,6 @@
+The parseFloat() function parses an argument (converting it to a string first if needed) and returns a floating point number.
+
+in this assignment i used parseInt()function:
+The parseInt function converts its first argument to a string, parses that string, then returns an integer or NaN .
+ If not NaN , the return value will be the integer that is the first argument 
+taken as a number in the specified radix . ... parseInt truncates numbers to integer values
